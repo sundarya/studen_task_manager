@@ -29,11 +29,11 @@ course_name,
 admission_date
 )
 values (
-'pallavi',
-'Kshatri',
+'saundariya',
+'Kumari',
 'feMale',
 '9876543210',
-'pallavi@test.com',
+'saundariya@test.com',
 'Python',
 curdate()
 );
